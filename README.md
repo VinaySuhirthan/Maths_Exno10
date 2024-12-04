@@ -51,6 +51,9 @@ print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
 ## Output:
 
 ![output10](https://github.com/user-attachments/assets/adbd961e-89b9-490b-8e36-029ed548c0d2)
+<br>
+<br>
+<br>
 
 
 ## Result
